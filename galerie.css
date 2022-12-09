@@ -20,7 +20,7 @@
       align-items:center  /* Center vertically and horizontally */
     }
     .overlay::after {
-     content: attr(X);    /* Add content : "X" */
+     content: "X";    /* Add content : "X" */
      color:#fff;    /* White text color */
      background-color: black;    /* Black background color */
      font-family: sans-serif;   /* Font family "sans-serif" */
